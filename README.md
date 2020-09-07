@@ -105,6 +105,10 @@
 
 - [《Service Mesh实战：基于Linkerd和Kubernetes的微服务实践 (云计算与虚拟化技术丛书).azw3》](./docker%26K8S/Service%20Mesh%E5%AE%9E%E6%88%98%EF%BC%9A%E5%9F%BA%E4%BA%8ELinkerd%E5%92%8CKubernetes%E7%9A%84%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%AE%9E%E8%B7%B5%20%28%E4%BA%91%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6%29.azw3)
 
+- [《每天5分钟玩转Docker容器技术.pdf》](./docker%26K8S/%E6%AF%8F%E5%A4%A95%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%ACDocker%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.pdf)
+
+- [《每天5分钟玩转Kubernetes.pdf》](./docker%26K8S/%E6%AF%8F%E5%A4%A95%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%ACKubernetes.pdf)
+
 
 ## git
 
@@ -128,6 +132,56 @@
 - [《Go语言实战.pdf》](./golang/Go%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98.pdf)
 
 
+## Head First 系列
+
+
+- [《Head First Ajax.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Ajax.pdf)
+
+- [《Head First C#.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20C%23.pdf)
+
+- [《Head First C.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20C.pdf)
+
+- [《Head First Excel.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Excel.pdf)
+
+- [《Head First HTML5 Programming.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20HTML5%20Programming.pdf)
+
+- [《Head First HTML与CSS 第2版.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20HTML%E4%B8%8ECSS%20%E7%AC%AC2%E7%89%88.pdf)
+
+- [《Head First Java 第2版.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Java%20%E7%AC%AC2%E7%89%88.pdf)
+
+- [《Head First JavaScript.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20JavaScript.pdf)
+
+- [《Head First Jquery.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Jquery.pdf)
+
+- [《Head First Mobile Web.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Mobile%20Web.pdf)
+
+- [《Head First Networking.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Networking.pdf)
+
+- [《Head First PHP MySQL.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20PHP%20MySQL.pdf)
+
+- [《Head First PMP.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20PMP.pdf)
+
+- [《Head First Python.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Python.pdf)
+
+- [《Head First Rails.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Rails.pdf)
+
+- [《Head First Servlet JSP.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20Servlet%20JSP.pdf)
+
+- [《Head First SQL.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20SQL.pdf)
+
+- [《Head First 数据分析.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.pdf)
+
+- [《Head First 程序设计.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.pdf)
+
+- [《Head First 统计学.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E7%BB%9F%E8%AE%A1%E5%AD%A6.pdf)
+
+- [《Head First 设计模式.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.pdf)
+
+- [《Head First 软件开发.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91.pdf)
+
+- [《Head First 面向对象分析与设计.pdf》](./Head%20First%20%E7%B3%BB%E5%88%97/Head%20First%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1.pdf)
+
+
 ## http
 
 
@@ -144,6 +198,8 @@
 - [《Effective Java 中文版（第2版）.pdf》](./java/Effective%20Java%20%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
 
 - [《Java编程思想（第4版）.pdf》](./java/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89.pdf)
+
+- [《Spring Boot实战 .pdf》](./java/Spring%20Boot%E5%AE%9E%E6%88%98%20.pdf)
 
 
 ## javascript
@@ -180,6 +236,8 @@
 
 
 - [《Linux内核设计与实现（第三版）.pdf》](./linux/Linux%E5%86%85%E6%A0%B8%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
+
+- [《Red.Hat.Linux用户基础.pdf》](./linux/Red.Hat.Linux%E7%94%A8%E6%88%B7%E5%9F%BA%E7%A1%80.pdf)
 
 - [《UNIX操作系统设计.pdf》](./linux/UNIX%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.pdf)
 
@@ -227,6 +285,8 @@
 
 - [《SQL学习指南.pdf》](./mysql/SQL%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97.pdf)
 
+- [《高性能MySQL（第2版）中文版.pdf》](./mysql/%E9%AB%98%E6%80%A7%E8%83%BDMySQL%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 - [《高性能MySQL（第3版）中文版.pdf》](./mysql/%E9%AB%98%E6%80%A7%E8%83%BDMySQL%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 
 
@@ -257,6 +317,10 @@
 ## others
 
 
+- [《Microsoft.Press.Code.Complete.Second.Edition.chm》](./others/Microsoft.Press.Code.Complete.Second.Edition.chm)
+
+- [《[代码大全2中文版(完整清晰版)].pdf》](./others/%5B%E4%BB%A3%E7%A0%81%E5%A4%A7%E5%85%A82%E4%B8%AD%E6%96%87%E7%89%88%28%E5%AE%8C%E6%95%B4%E6%B8%85%E6%99%B0%E7%89%88%29%5D.pdf)
+
 - [《七周七语言：理解多种编程范型.pdf》](./others/%E4%B8%83%E5%91%A8%E4%B8%83%E8%AF%AD%E8%A8%80%EF%BC%9A%E7%90%86%E8%A7%A3%E5%A4%9A%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B.pdf)
 
 - [《如何阅读一本书.pdf》](./others/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6.pdf)
@@ -273,15 +337,27 @@
 ## python
 
 
+- [《Python Cookbook（第3版）中文版.pdf》](./python/Python%20Cookbook%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%E7%89%88.pdf)
+
 - [《Python_Cookbook.pdf》](./python/Python_Cookbook.pdf)
 
 - [《Python基础教程（第2版）.pdf》](./python/Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89.pdf)
+
+- [《Python学习手册（第三版）.pdf》](./python/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 
 - [《python核心编程.pdf》](./python/python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.pdf)
 
 - [《Python源码剖析.pdf》](./python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90.pdf)
 
+- [《PYTHON编程 第4版 上册.pdf》](./python/PYTHON%E7%BC%96%E7%A8%8B%20%E7%AC%AC4%E7%89%88%20%E4%B8%8A%E5%86%8C.pdf)
+
+- [《PYTHON编程 第4版 下册.pdf》](./python/PYTHON%E7%BC%96%E7%A8%8B%20%E7%AC%AC4%E7%89%88%20%E4%B8%8B%E5%86%8C.pdf)
+
 - [《Python编程：从入门到实践.pdf》](./python/Python%E7%BC%96%E7%A8%8B%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
+
+- [《Think Python 2ed 中译版精校.pdf》](./python/Think%20Python%202ed%20%E4%B8%AD%E8%AF%91%E7%89%88%E7%B2%BE%E6%A0%A1.pdf)
+
+- [《流畅的python.pdf》](./python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)
 
 
 ## redis
@@ -345,6 +421,18 @@
 
 - [《云计算通俗讲义.epub》](./%E4%BA%91%E8%AE%A1%E7%AE%97%26%E8%99%9A%E6%8B%9F%E5%8C%96%26openstack/%E4%BA%91%E8%AE%A1%E7%AE%97%E9%80%9A%E4%BF%97%E8%AE%B2%E4%B9%89.epub)
 
+- [《每天5分钟玩转OpenStack.pdf》](./%E4%BA%91%E8%AE%A1%E7%AE%97%26%E8%99%9A%E6%8B%9F%E5%8C%96%26openstack/%E6%AF%8F%E5%A4%A95%E5%88%86%E9%92%9F%E7%8E%A9%E8%BD%ACOpenStack.pdf)
+
 - [《精通OpenStack（原书第2版） (云计算与虚拟化技术丛书).epub》](./%E4%BA%91%E8%AE%A1%E7%AE%97%26%E8%99%9A%E6%8B%9F%E5%8C%96%26openstack/%E7%B2%BE%E9%80%9AOpenStack%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC2%E7%89%88%EF%BC%89%20%28%E4%BA%91%E8%AE%A1%E7%AE%97%E4%B8%8E%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E4%B8%9B%E4%B9%A6%29.epub)
 
 - [《网络虚拟化技术完全指南.epub》](./%E4%BA%91%E8%AE%A1%E7%AE%97%26%E8%99%9A%E6%8B%9F%E5%8C%96%26openstack/%E7%BD%91%E7%BB%9C%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97.epub)
+
+
+## 网络
+
+
+- [《深入理解计算机网络.pdf》](./%E7%BD%91%E7%BB%9C/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.pdf)
+
+- [《网络是怎样连接的.pdf》](./%E7%BD%91%E7%BB%9C/%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84.pdf)
+
+- [《计算机网络-自顶向下方法(第4版).pdf》](./%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%87%AA%E9%A1%B6%E5%90%91%E4%B8%8B%E6%96%B9%E6%B3%95%28%E7%AC%AC4%E7%89%88%29.pdf)
